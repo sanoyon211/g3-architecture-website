@@ -100,5 +100,26 @@ header{
   margin-bottom: 50px;
 }
 .hero-img{
+  width: 100%;
+  margin: 0 auto 45px auto ;
+}
+#quick-feature{
+  margin-top: 85px;
+}
+#quick-feature .feature-container{
+  max-width: 1318px;
   margin: 0 auto;
+  display: flex;
+  gap: 73px;
+  align-items: center;
+}
+.image{
+  display: grid;
+  gap: 20px;
+}
+.image div{
+  gap: 20px;
+}
+.texts{
+  width: 537px;
 }
